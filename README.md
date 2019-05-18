@@ -16,3 +16,7 @@ git responsitory
 
 git checkout: git checkout -- <file>..." to discard changes in working directory
 git reset
+
+
+git branch
+git checkout -b feature/dog-class
