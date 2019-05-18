@@ -32,3 +32,6 @@ git reset --hard _id: Xóa luôn các commit sau đó
 
 
 git revert _id : Xóa đi một commit ở vị trí nào đó và giữ nguyên commit sau đó
+
+
+git remote -v: danh sach
