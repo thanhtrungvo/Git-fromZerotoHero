@@ -21,3 +21,6 @@ git reset
 git branch
 git checkout -b <branch>: tao
 git checkout <branch>: checkout
+
+git checkout A
+git merge B
