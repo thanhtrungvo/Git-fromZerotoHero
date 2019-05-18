@@ -35,3 +35,6 @@ git revert _id : Xóa đi một commit ở vị trí nào đó và giữ nguyên
 
 
 git remote -v: danh sach
+
+git clone
+git pull

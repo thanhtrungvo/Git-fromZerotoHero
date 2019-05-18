@@ -7,4 +7,6 @@ Mouse.prototype.die = ()=>{
     this.dead = true;
 }
 
+console.log("hello")
+
 module.exports = Mouse;
