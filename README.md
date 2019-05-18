@@ -12,3 +12,7 @@ git diff
 working directory
 staging area
 git responsitory
+
+
+git checkout: git checkout -- <file>..." to discard changes in working directory
+git reset
